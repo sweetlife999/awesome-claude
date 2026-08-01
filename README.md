@@ -1,4 +1,4 @@
-# awesome-claude
+# sweet-claude
 Auto-sync global claude skills
 
 Right now, only works on linux, but the skills remain global and sync automatically!
@@ -7,7 +7,7 @@ Right now, only works on linux, but the skills remain global and sync automatica
 
 ```sh
 git clone https://github.com/sweetlife999/awesome-claude.git
-cd awesome-claude
+cd sweet-claude
 sh install.sh
 ```
 
