@@ -6,7 +6,7 @@ Right now, only works on linux, but the skills remain global and sync automatica
 # Installlation
 
 ```sh
-git clone https://github.com/sweetlife999/awesome-claude.git
+git clone https://github.com/sweetlife999/sweet-claude.git
 cd sweet-claude
 sh install.sh
 ```
